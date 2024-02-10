@@ -3,5 +3,6 @@
   "dest": "../../dist/ngx-monaco-file-tree",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "assets": ["assets"]
 }
